@@ -4,9 +4,9 @@
 }
 
 .role {
-  color: #f80000;
+  color: #d60000;
   text-decoration-line: underline;
-  text-decoration-color: magenta;
+  text-decoration-color: rgb(0, 0, 0);
   text-decoration-style: solid;
 }
 
@@ -20,4 +20,9 @@
 
 .not-all-updates {
   color: red;
+}
+
+.image1 {
+  border: 8px solid #36004b;
+  border-radius: 1000000000000000000px;
 }
