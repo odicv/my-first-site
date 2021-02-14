@@ -13,9 +13,9 @@
 .text1 {
   text-align: start;
   border: 8px solid #dfbb37;
-  margin-top: 200px;
+  margin-top: 100px;
   margin-bottom: 100px;
-  font-size: 22px;
+  font-size: 26px;
 }
 
 .not-all-updates {
@@ -25,4 +25,46 @@
 .image1 {
   border: 8px solid #36004b;
   border-radius: 1000000000000000000px;
+}
+
+.link_to_update_info {
+  border-color: #000000;
+  background-color: #000000;
+  text-align: center;
+  font-size: 35px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 25px;
+}
+.link_to_update_info a {
+  color: #ffffff;
+}
+
+.copy {
+  border-color: #000000;
+  background-color: #000000;
+  text-align: center;
+  font-size: 35px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 25px;
+  color: #ffffff;
+}
+
+.laungage {
+  font-size: 35px;
+}
+
+.laungage a {
+  text-align: center;
+}
+
+.minecraft_text {
+  border: 8px solid #000000;
+  font-size: 25px;
+  border-radius: 50px;
+}
+
+.version_minecraft {
+  font-size: 35px;
 }
