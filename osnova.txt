@@ -7,6 +7,10 @@
 </head>
 <body>
 
+	<div class="link_to_update_info">
+		<a href="index.html">Home</a>
+	</div>
+
 	<p class="copy">
 	&copy Durka Team
 	</p>
